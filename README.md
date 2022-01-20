@@ -1,1 +1,1 @@
-# RACANI-Labosi
+# Laboratorijske Vjezbe iz Racunalne Animacije
